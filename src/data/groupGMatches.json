@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "TeamA": "Switzerland",
+    "Score": "1:0",
+    "TeamB": "Cameroon",
+    "MatchDate": "24.11.22"
+  },
+  {
+    "id": 2,
+    "TeamA": "Brazil",
+    "Score": "2:0",
+    "TeamB": "Serbia",
+    "MatchDate": "24.11.22"
+  },
+  {
+    "id": 3,
+    "TeamA": "Cameroon",
+    "Score": "3:3",
+    "TeamB": "Serbia",
+    "MatchDate": "28.11.22"
+  },
+  {
+    "id": 4,
+    "TeamA": "Brazil",
+    "Score": "1:0",
+    "TeamB": "Switzerland",
+    "MatchDate": "28.11.22"
+  },
+  {
+    "id": 5,
+    "TeamA": "Serbia",
+    "Score": "2:3",
+    "TeamB": "Switzerland",
+    "MatchDate": "02.12.22"
+  },
+  {
+    "id": 6,
+    "TeamA": "Cameroon",
+    "Score": "1:0",
+    "TeamB": "Brazil",
+    "MatchDate": "02.12.22"
+  }
+]

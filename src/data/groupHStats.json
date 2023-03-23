@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "Flag": "https://images.sports.gracenote.com/images/lib/basic/geo/country/flag/large/2223.png",
+    "Country": "Portugal",
+    "Played": 3,
+    "Win": 2,
+    "Draw": 0,
+    "Lose": 1,
+    "Points": 6,
+    "GoalsFor": 6,
+    "GoalsAgainst": 4,
+    "GoalDifference": 2,
+    "AdvanceToNextRound": "Y"
+  },
+  {
+    "id": 2,
+    "Flag": "https://images.sports.gracenote.com/images/lib/basic/geo/country/flag/large/4391.png",
+    "Country": "Korea Republic",
+    "Played": 3,
+    "Win": 1,
+    "Draw": 1,
+    "Lose": 1,
+    "Points": 4,
+    "GoalsFor": 4,
+    "GoalsAgainst": 4,
+    "GoalDifference": 0,
+    "AdvanceToNextRound": "Y"
+  },
+  {
+    "id": 3,
+    "Flag": "https://images.sports.gracenote.com/images/lib/basic/geo/country/flag/large/2787.png",
+    "Country": "Uruguay",
+    "Played": 3,
+    "Win": 1,
+    "Draw": 1,
+    "Lose": 1,
+    "Points": 4,
+    "GoalsFor": 2,
+    "GoalsAgainst": 2,
+    "GoalDifference": 0,
+    "AdvanceToNextRound": "N"
+  },
+  {
+    "id": 4,
+    "Flag": "https://images.sports.gracenote.com/images/lib/basic/geo/country/flag/large/4339.png",
+    "Country": "Ghana",
+    "Played": 3,
+    "Win": 1,
+    "Draw": 0,
+    "Lose": 2,
+    "Points": 3,
+    "GoalsFor": 5,
+    "GoalsAgainst": 7,
+    "GoalDifference": -2,
+    "AdvanceToNextRound": "N"
+  }
+]

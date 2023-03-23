@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "TeamA": "Morocco",
+    "Score": "0:0",
+    "TeamB": "Croatia",
+    "MatchDate": "23.11.22"
+  },
+  {
+    "id": 2,
+    "TeamA": "Belgium",
+    "Score": "1:0",
+    "TeamB": "Canada",
+    "MatchDate": "23.11.22"
+  },
+  {
+    "id": 3,
+    "TeamA": "Belgium",
+    "Score": "0:2",
+    "TeamB": "Morocco",
+    "MatchDate": "27.11.22"
+  },
+  {
+    "id": 4,
+    "TeamA": "Croatia",
+    "Score": "4:1",
+    "TeamB": "Canada",
+    "MatchDate": "27.11.22"
+  },
+  {
+    "id": 5,
+    "TeamA": "Croatia",
+    "Score": "0:0",
+    "TeamB": "Belgium",
+    "MatchDate": "01.12.22"
+  },
+  {
+    "id": 6,
+    "TeamA": "Canada",
+    "Score": "1:2",
+    "TeamB": "Morocco",
+    "MatchDate": "01.12.22"
+  }
+]
